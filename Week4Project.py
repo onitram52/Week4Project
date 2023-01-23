@@ -25,6 +25,6 @@ class ROICalculator:
         
 roi_calc = ROICalculator()
 
-print(roi_calc.calculate_roi())
-print(roi_calc.calculate_profit())
-print(roi_calc.calculate_payback_period())
+# print(roi_calc.calculate_roi())
+# print(roi_calc.calculate_profit())
+# print(roi_calc.calculate_payback_period())
